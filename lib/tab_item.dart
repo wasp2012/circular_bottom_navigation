@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class TabItem {
-  IconData icon;
+  Widget icon;
   String title;
   Color circleColor;
   Color? circleStrokeColor;
